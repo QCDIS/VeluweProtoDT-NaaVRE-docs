@@ -12,6 +12,6 @@ Documents for initializing Veluwe Proto DT virtual labs on NaaVRE:
 In order to run the notebook and workflow, you need to obtain keys for the KNMI EDR and the Dataverse APIs:
 
 - For the KNMI EDR, got to the KNMI [API catalogue](https://developer.dataplatform.knmi.nl/apis) and click on "Request an API key" below "EDR API (ALPHA)" ([documentation](https://developer.dataplatform.knmi.nl/open-data-api#token)).
-- For Dataverse, create an account, then navigate to "API Token", and select "Create Token" ([documentation](https://guides.dataverse.org/en/5.10.1/api/auth.html).
+- For Dataverse, sign-up or login on <https://demo.dataverse.nl/dataverse/root/>, then click on your name, select "API Token", and select "Create Token". (More information on [account management](https://guides.dataverse.org/en/5.10.1/user/account.html) and [API tokens](https://guides.dataverse.org/en/5.10.1/api/auth.html).
 
 To execute the notebook, add the keys to the first cell. To execute the workflow, fill-in the form before clicking "execute".
